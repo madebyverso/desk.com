@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="47px" viewBox="0 0 42 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/smiley</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Kayako-Desk.com-Alternative-Landing-Page---1360" transform="translate(-260.000000, -944.000000)">
+            <g id="Section-1" transform="translate(85.000000, 783.000000)">
+                <g id="Customer-Agents" transform="translate(0.000000, 125.000000)">
+                    <g id="Icons/smiley" transform="translate(175.000000, 37.000000)">
+                        <g id="smiley">
+                            <g id="Group" transform="translate(20.468750, 22.843750) rotate(90.000000) translate(-20.468750, -22.843750) translate(-1.531250, 2.843750)">
+                                <path d="M23.625,27.5625 C27.95625,27.5625 31.5,24.01875 31.5,19.6875 C31.5,15.35625 27.95625,11.8125 23.625,11.8125 L23.625,27.5625 Z M15.75,7.875 C13.584375,7.875 11.8125,9.646875 11.8125,11.8125 C11.8125,13.978125 13.584375,15.75 15.75,15.75 L15.75,7.875 Z M15.75,22.640625 C13.584375,22.640625 11.8125,24.4125 11.8125,26.578125 C11.8125,28.74375 13.584375,30.515625 15.75,30.515625 L15.75,22.640625 Z" id="Shape" stroke="#98A162" stroke-width="2"></path>
+                                <rect id="Rectangle" fill="#FFFFFF" x="14.65625" y="6.65876198" width="2.5" height="25.0100002"></rect>
+                                <path d="M19.6875,0 L36.421875,0 L36.421875,3.9375 L41.34375,3.9375 C42.4265625,3.9375 43.3125,3.0515625 43.3125,1.96875 C43.3125,0.8859375 42.4265625,0 41.34375,0 L36.421875,0" id="Shape" stroke="#40364D" stroke-width="2"></path>
+                                <circle id="Oval" stroke="#40364D" stroke-width="2" cx="19.6875" cy="19.6875" r="19.6875"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

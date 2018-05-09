@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>C96BB30E-6B1F-4DD8-A8CD-3C79262A9252</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="62" height="62" rx="8"></rect>
+        <filter x="-10.5%" y="-8.9%" width="121.0%" height="121.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.176470588   0 0 0 0 0.192156863   0 0 0 0 0.219607843  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Kayako-Desk.com-Alternative-Landing-Page---1360" transform="translate(-791.000000, -3331.000000)">
+            <g id="Section:-Features" transform="translate(0.000000, 2754.000000)">
+                <g id="Customer-Satisfaction" transform="translate(795.000000, 580.000000)">
+                    <g id="Icons/White-Box/customer-satisfaction">
+                        <g>
+                            <g id="Rectangle-100" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <g id="smiley" transform="translate(13.151515, 14.090909)">
+                                <g id="Group" transform="translate(17.590698, 18.106272) rotate(90.000000) translate(-17.590698, -18.106272) translate(0.211910, 0.727484)">
+                                    <path d="M20.369556,23.764482 C24.1039746,23.764482 27.159408,20.7090486 27.159408,16.97463 C27.159408,13.2402114 24.1039746,10.184778 20.369556,10.184778 L20.369556,23.764482 Z M13.579704,6.78985201 C11.7124947,6.78985201 10.184778,8.31756871 10.184778,10.184778 C10.184778,12.0519873 11.7124947,13.579704 13.579704,13.579704 L13.579704,6.78985201 Z M13.579704,19.5208245 C11.7124947,19.5208245 10.184778,21.0485412 10.184778,22.9157505 C10.184778,24.7829598 11.7124947,26.3106765 13.579704,26.3106765 L13.579704,19.5208245 Z" id="Shape" stroke="#F37070" stroke-width="1.5"></path>
+                                    <circle id="Oval" stroke="#5F6C73" stroke-width="2" cx="16.97463" cy="16.97463" r="16.97463"></circle>
+                                    <rect id="Rectangle" fill="#FFFFFF" x="12.846759" y="5.94221274" width="2.13657505" height="21.3002115"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

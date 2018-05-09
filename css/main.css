@@ -1,0 +1,319 @@
+/******************************************/
+/*				BASE STYLES               */
+/******************************************/
+@font-face {
+    font-family: 'Brandon Text';
+    src: url('../fonts/BrandonText-Regular.eot');
+    src: url('../fonts/BrandonText-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonText-Regular.woff2') format('woff2'),
+        url('../fonts/BrandonText-Regular.woff') format('woff'),
+        url('../fonts/BrandonText-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brandon Text Bold';
+    src: url('../fonts/BrandonText-Bold.eot');
+    src: url('../fonts/BrandonText-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonText-Bold.woff2') format('woff2'),
+        url('../fonts/BrandonText-Bold.woff') format('woff'),
+        url('../fonts/BrandonText-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brandon Text Medium';
+    src: url('../fonts/BrandonText-Medium.eot');
+    src: url('../fonts/BrandonText-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonText-Medium.woff2') format('woff2'),
+        url('../fonts/BrandonText-Medium.woff') format('woff'),
+        url('../fonts/BrandonText-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brandon Text Light';
+    src: url('../fonts/BrandonText-Light.eot');
+    src: url('../fonts/BrandonText-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonText-Light.woff2') format('woff2'),
+        url('../fonts/BrandonText-Light.woff') format('woff'),
+        url('../fonts/BrandonText-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brandon Text Regular Italic';
+    src: url('../fonts/BrandonText-RegularItalic.eot');
+    src: url('../fonts/BrandonText-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonText-RegularItalic.woff2') format('woff2'),
+        url('../fonts/BrandonText-RegularItalic.woff') format('woff'),
+        url('../fonts/BrandonText-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+h1 {
+    font-family: 'Brandon Text', sans-serif;
+    font-weight: 500;
+}
+
+.responsive { width: 100%; }
+.dt { display: block; }
+.mob { display: none; margin: 0 auto; }
+
+
+
+.btn { background-color:#F1703F; color:#fff; border-radius: 5px; padding: 10px 30px; text-decoration: none; box-shadow: 0 1px 0 0 #D4460F; margin-left:10px;}
+.btn-white { background-color:#fff; border-radius: 5px; padding: 10px 30px;  border: 1px solid #9BBEC5; color: #9BBEC5; text-decoration: none; margin-right:10px;}
+
+a.btn-white:hover { color: #9BBEC5;}
+a.btn:hover { color:#fff; }
+
+.column { text-align: center; }
+.one-half.column { text-align: left; }
+
+.overlay {
+    z-index:999;
+  
+    position:relative;
+    top:100px;
+
+}
+
+.row-hl {
+    background-color: #F7F8F9;
+}
+
+.screen {
+    max-width: 1170px;
+    width: 100%;
+}
+/******************************************/
+/*				HERO                      */
+/******************************************/
+.hero {
+	background-color: #331E35;
+    background-image: url('../images/bg-testimonial.png');
+    background-repeat: no-repeat;
+    background-position: 0 center;
+	color: #fff;
+    padding-top: 50px;
+}
+
+.hero .container { margin-right:0; width:90%;}
+.hero img { max-width: 853px; width: 100%; }
+
+.hero h1 { font-size: 48px; padding-top: 100px; }
+
+
+.hero p {
+    font-family: 'Brandon Text Regular Italic', sans-serif;
+    font-size: 22px;
+    color:#FBC2B6;
+}
+
+/******************************************/
+/*				VALUE                     */
+/******************************************/
+.value {
+	padding: 150px 0 60px;
+	font-weight:bold;
+}
+
+.value h1 { font-size: 2.25em; }
+.value p { font-size: 20px; }
+
+/******************************************/
+/*				EXPERTS                   */
+/******************************************/
+.experts {
+	background-color: #F7F8F9;
+	background-image: url('../images/squiggles.png');
+	background-repeat: no-repeat;
+	background-position: top center;
+	padding: 100px 0 50px;
+	font-family: 'Brandon Text Regular Italic', sans-serif;
+	font-size: 1.375em;
+}
+
+.experts img { position:relative;z-index:999; top:100px; }
+
+/******************************************/
+/*				PRICING                   */
+/******************************************/
+.pricing {
+    padding: 100px 0;
+    font-size: 18px;
+}
+
+.pricing h1 {font-weight:500; }
+.pricing p {
+    color: #5F6C73;
+}
+
+.pricing h2 { font-size: 20px; color:#40364D; font-weight:bold;}
+.caption { color: #A1AAAF; font-size: 14px; font-family: 'Brandon Text Regular Italic', sans-serif; }
+
+
+.price-table td {
+    padding: 15px 10px;
+    text-align: center;
+}
+
+.price-table th {
+    text-align: center;
+}
+
+.price-table td.left {
+    text-align: left;
+}
+
+
+
+
+/******************************************/
+/*              CTA                       */
+/******************************************/
+.cta { 
+    background-image: url('../images/bg-texture.png'); 
+    height:407px; 
+    width: auto; 
+    background-repeat: no-repeat;
+    color: #fff;
+
+}
+
+.cta .container {
+    width: 60%;
+}
+
+.cta h1 { font-family: 'Brandon Text Regular Italic', sans-serif; padding-top: 100px; margin-bottom: 70px;}
+
+.cta .btn {
+    
+    margin-bottom: 100px;
+}
+
+/******************************************/
+/*              EASE OF USE               */
+/******************************************/
+
+.ease {
+    padding: 100px 0;
+}
+
+.ease p {
+    color: #5F6C73;
+    font-size: 18px;
+    width: 70%;
+    margin:0 auto;
+}
+
+
+
+
+/******************************************/
+/*              TESTIMONIAL               */
+/******************************************/
+.testimonial {
+    background-color: #331E35;
+    background-image: url('../images/bg-testimonial.png');
+    background-repeat: no-repeat;
+    background-position: 0 center;
+    padding-top:100px;
+
+}
+
+.testimonial h1 {
+      color: #fff;
+    font-family: 'Brandon Text Light', sans-serif;
+    font-size: 34px;  
+    width:70%;
+    margin:0 auto;
+}
+
+/******************************************/
+/*              FEATURES                  */
+/******************************************/
+.features { padding: 100px 0; }
+.features { background-color: #F7F8F9; }
+.features ul li { list-style-type: none; }
+.feature-content { float:left; width:50%; }
+.features h3 { font-size: 24px;color: #5F6C73; font-weight:bold; padding: 15px 0 20px;margin:0;width:100%; line-height: 30px;}
+.features h3 {  }
+.icon { float:left; margin-right: 25px; width: 70px; height: 70px;}
+
+/******************************************/
+/*              IMPLEMENTATION            */
+/******************************************/
+.implementation {
+    padding: 100px 0;
+    font-size: 18px;
+    color: #5F6C73;;
+}
+
+.implementation .one-third.column { text-align: left; }
+
+
+/******************************************/
+/*              SUPPORT                   */
+/******************************************/
+
+.support {
+    padding: 100px 0;
+    font-size: 18px;
+    color:#5F6C73;
+}
+
+.support p {
+    width: 70%;
+    margin: 0 auto;
+}
+/******************************************/
+/*              CRM                       */
+/******************************************/
+.crm {
+    padding: 100px 0;
+    background-color: #F7F8F9;
+    font-size: 18px;
+    color: #5F6C73;
+}
+
+
+
+
+/******************************************/
+/*              KNOWLEDGE-BASE            */
+/******************************************/
+
+.knowledge-base {
+    background-image: url('../images/squiggles.png');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-color: #40364D;
+    padding: 100px 0;
+} 
+.knowledge-base .container {
+    width: 90%;
+}
+
+.knowledge-base h1 { color:#fff; padding-top:50px; }
+.knowledge-base p { color:#fff; font-size: 18px; }
+
+
+/******************************************/
+/*              GET STARTED.              */
+/******************************************/
+
+.get-started {
+    padding: 100px 0;
+    font-size: 18px;
+}
+
+
+
+

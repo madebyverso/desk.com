@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/help-center-comments</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="62" height="62" rx="8"></rect>
+        <filter x="-10.5%" y="-8.9%" width="121.0%" height="121.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.176470588   0 0 0 0 0.192156863   0 0 0 0 0.219607843  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Kayako-Desk.com-Alternative-Landing-Page---1360" transform="translate(-191.000000, -3251.000000)">
+            <g id="Section:-Features" transform="translate(0.000000, 2754.000000)">
+                <g id="LIve-Chat" transform="translate(195.000000, 500.000000)">
+                    <g id="Icons/White-Box/help-center-comments">
+                        <g id="help_center_comments">
+                            <g id="Rectangle-100" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <g id="Group" transform="translate(13.151515, 15.030303)">
+                                <path d="M31.311342,23.8416904 C33.9558318,21.2773366 35.4784168,18.0718945 35.4784168,14.5459081 C35.4784168,6.61243867 27.6250835,0.121418264 17.8484848,0.121418264 C8.07188621,0.121418264 0.218552876,6.61243867 0.218552876,14.5459081 C0.218552876,22.4793774 8.07188621,28.9703979 17.8484848,28.9703979 C19.531342,28.9703979 21.2141991,28.7299897 22.8169202,28.4094455 L32.2729746,32.17584 L31.311342,23.8416904 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                <path d="M31.311342,23.8416904 C33.9558318,21.2773366 35.4784168,18.0718945 35.4784168,14.5459081 C35.4784168,6.61243867 27.6250835,0.121418264 17.8484848,0.121418264 C8.07188621,0.121418264 0.218552876,6.61243867 0.218552876,14.5459081 C0.218552876,22.4793774 8.07188621,28.9703979 17.8484848,28.9703979 C19.531342,28.9703979 21.2141991,28.7299897 22.8169202,28.4094455 L32.2729746,32.17584 L31.311342,23.8416904 Z" id="Shape" stroke="#5F6C73" stroke-width="2"></path>
+                                <path d="M11.4376005,11.3404659 L24.2593692,11.3404659 M11.4376005,17.7513502 L19.4512059,17.7513502" id="Shape" stroke="#F37070" stroke-width="2"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

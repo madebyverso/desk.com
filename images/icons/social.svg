@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/social</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="62" height="62" rx="8"></rect>
+        <filter x="-10.5%" y="-8.9%" width="121.0%" height="121.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.176470588   0 0 0 0 0.192156863   0 0 0 0 0.219607843  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Kayako-Desk.com-Alternative-Landing-Page---1360" transform="translate(-791.000000, -3251.000000)">
+            <g id="Section:-Features" transform="translate(0.000000, 2754.000000)">
+                <g id="Facebook-&amp;-Twitter-Support" transform="translate(795.000000, 500.000000)">
+                    <g id="Icons/White-Box/social">
+                        <g>
+                            <g id="Rectangle-100" fill-rule="nonzero">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <g id="Group" transform="translate(14.090909, 14.090909)" stroke-width="2">
+                                <path d="M6.95151515,31.0643641 L10.8518944,33.0142641 C12.8782611,34.0274475 15.1131732,34.5551833 17.3787879,34.5551833 L28.9646465,34.5551833 C30.8844232,34.5551833 32.6576389,33.1793626 33.019697,31.0643641 L34.7575758,17.1613338 C34.7575758,15.2415571 33.2015949,13.7006379 31.2818182,13.7006379 L22.0131313,13.7006379 L22.0131313,7.90770857 C22.0131313,4.59125655 19.9856061,1.02512928 16.5747293,0.0478621057 C15.8204899,-0.168214157 15.0616162,0.372845439 15.0616162,1.15720807 L15.0616162,7.90770857 L6.95151515,18.3349813" id="Stroke-590" stroke="#5F6C73"></path>
+                                <polygon id="Stroke-591" stroke="#F37070" stroke-linecap="square" points="6.95151515 34.5500276 0 34.5500276 0 14.8592817 6.95151515 14.8592817"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

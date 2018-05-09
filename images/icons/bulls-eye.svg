@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/bulls-eye</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Kayako-Desk.com-Alternative-Landing-Page---1360" transform="translate(-1057.000000, -943.000000)">
+            <g id="Section-1" transform="translate(85.000000, 783.000000)">
+                <g id="Committed" transform="translate(810.000000, 162.000000)">
+                    <g id="Icons/bulls-eye" transform="translate(163.000000, 0.000000)">
+                        <g id="Group">
+                            <path d="M0,26.3793103 C0,16.0952586 8.33663793,7.75862069 18.6206897,7.75862069 C28.9047414,7.75862069 37.2413793,16.0952586 37.2413793,26.3793103 C37.2413793,36.6633621 28.9047414,45 18.6206897,45 C8.33663793,45 0,36.6633621 0,26.3793103 L0,26.3793103 Z" id="Stroke-440" stroke="#40364D" stroke-width="2" stroke-linecap="square"></path>
+                            <path d="M7.75862069,26.3793103 C7.75862069,20.3803448 12.6217241,15.5172414 18.6206897,15.5172414 C24.6196552,15.5172414 29.4827586,20.3803448 29.4827586,26.3793103 C29.4827586,32.3782759 24.6196552,37.2413793 18.6206897,37.2413793 C12.6217241,37.2413793 7.75862069,32.3782759 7.75862069,26.3793103 L7.75862069,26.3793103 Z" id="Stroke-441" stroke="#40364D" stroke-width="2" stroke-linecap="square"></path>
+                            <path d="M15.5172414,26.3793103 C15.5172414,24.665431 16.9068103,23.2758621 18.6206897,23.2758621 C20.334569,23.2758621 21.7241379,24.665431 21.7241379,26.3793103 C21.7241379,28.0931897 20.334569,29.4827586 18.6206897,29.4827586 C16.9068103,29.4827586 15.5172414,28.0931897 15.5172414,26.3793103 L15.5172414,26.3793103 Z" id="Stroke-442" stroke="#F37070" stroke-width="2" stroke-linecap="square"></path>
+                            <path d="M20.8151379,24.1848621 L43.4485862,1.55141379" id="Stroke-443" stroke="#40364D" stroke-width="2"></path>
+                            <polygon id="Stroke-444" stroke="#F37070" stroke-width="2" stroke-linecap="square" points="38.7931034 0 40.3448276 4.65517241 35.6896552 9.31034483 34.137931 4.65517241"></polygon>
+                            <polygon id="Stroke-445" stroke="#F37070" stroke-width="2" stroke-linecap="square" points="45 6.20689655 40.3448276 4.65517241 35.6896552 9.31034483 40.3448276 10.862069"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
