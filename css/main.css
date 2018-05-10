@@ -57,8 +57,8 @@
 }
 
 h1 {
-    font-family: 'Brandon Text', sans-serif;
-    font-weight: 500;
+    font-family: 'Brandon Text Medium', sans-serif;
+    /*font-weight: 500;*/
 }
 
 .responsive { width: 100%; }
@@ -114,6 +114,7 @@ a.btn:hover { color:#fff; }
     font-family: 'Brandon Text Regular Italic', sans-serif;
     font-size: 22px;
     color:#FBC2B6;
+    padding-bottom:10px;
 }
 
 /******************************************/
@@ -124,7 +125,7 @@ a.btn:hover { color:#fff; }
 	font-weight:bold;
 }
 
-.value h1 { font-size: 2.25em; }
+.value h1 { font-size: 2.25em; padding-bottom:10px;}
 .value p { font-size: 20px; }
 
 /******************************************/
@@ -135,7 +136,7 @@ a.btn:hover { color:#fff; }
 	background-image: url('../images/squiggles.png');
 	background-repeat: no-repeat;
 	background-position: top center;
-	padding: 100px 0 50px;
+	padding: 130px 0 50px;
 	font-family: 'Brandon Text Regular Italic', sans-serif;
 	font-size: 1.375em;
 }
@@ -153,9 +154,11 @@ a.btn:hover { color:#fff; }
 .pricing h1 {font-weight:500; }
 .pricing p {
     color: #5F6C73;
+    width: 70%;
+    margin:40px auto;
 }
 
-.pricing h2 { font-size: 20px; color:#40364D; font-weight:bold;}
+.pricing h2 { font-size: 20px; color:#40364D; font-weight:bold; padding-bottom:30px;}
 .caption { color: #A1AAAF; font-size: 14px; font-family: 'Brandon Text Regular Italic', sans-serif; }
 
 
@@ -211,6 +214,7 @@ a.btn:hover { color:#fff; }
     font-size: 18px;
     width: 70%;
     margin:0 auto;
+    padding-bottom: 20px;
 }
 
 
@@ -272,6 +276,7 @@ a.btn:hover { color:#fff; }
 .support p {
     width: 70%;
     margin: 0 auto;
+    padding-bottom: 20px;
 }
 /******************************************/
 /*              CRM                       */
@@ -283,7 +288,7 @@ a.btn:hover { color:#fff; }
     color: #5F6C73;
 }
 
-
+.crm h1 { padding-top:60px; }
 
 
 /******************************************/
@@ -311,9 +316,17 @@ a.btn:hover { color:#fff; }
 
 .get-started {
     padding: 100px 0;
-    font-size: 18px;
+    
 }
 
+.get-started .container {
+    width: 70%;
+}
+
+.get-started p {
+    color: #40364D;
+    font-size: 30px;
+}
 
 
 
